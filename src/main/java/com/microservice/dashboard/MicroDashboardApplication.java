@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MicroDashboardApplication {
 
 	public static void main(String[] args) {
-		 SpringApplication.run(MicroDashboardApplication.class, args);
+		  SpringApplication.run(MicroDashboardApplication.class, args);
 	}
 }
